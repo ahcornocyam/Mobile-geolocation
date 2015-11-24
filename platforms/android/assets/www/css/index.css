@@ -1,0 +1,8 @@
+main{
+    display: flex;
+    flex-flow: row;
+}
+
+main div{
+    flex: 1 1 auto;
+}
